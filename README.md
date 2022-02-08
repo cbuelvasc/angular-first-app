@@ -26,9 +26,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Commands
 
+* Generate Component
 ```javascript
 ng generate component heroes/list
 or
 ng g c heroes/list
+```
+* Generate Module
+```javascript
+ng generate module dbz
+or
+ng g m dbz
 ```
